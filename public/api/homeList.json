@@ -1,0 +1,266 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "title": "Men's shoes",
+      "list":[
+        {
+          "id": "1",
+          "title": "1970S high-top canvas shoes for men and women Barbie pink dopamine pink",
+          "url": "/images/home/list-boy-a.webp",
+          "price": "419",
+          "discount": "30% off",
+          "desc": "By the 1970s, the Chuck Taylor All Star sneaker had evolved into one of the iconic basketball sneakers. The Chuck 70 combines classic elements with modern and comfortable details. The star ankle patch and smooth outsole band highlight the iconic retro style. This shoe uses a recycled canvas upper injected with new colors to create a brand new look, and is equipped with an OrthoLite insole to help you enjoy all-day comfort.",
+          "color": ["white", "black", "blue", "pink"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Chuck 70 Classic Men's and Women's Canvas Shoes Black",
+          "price": "1399",
+          "discount": "10% off",
+          "url": "/images/home/list-boy-b.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "3",
+          "title": "Run Star Hike high-top meteor thick-soled shoes for men and women",
+          "price": "599",
+          "url": "/images/home/list-boy-c.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "4",
+          "title": "Chuck 70 Classic Canvas Shoes for Men and Women Off-White",
+          "price": "2299",
+          "url": "/images/home/list-boy-d.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "5",
+          "title": "All Star Classic Low-top Canvas Shoes for Men and Women",
+          "price": "399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "6",
+          "title": "Air Jordan 1 Retro High OG Men's Sneakers",
+          "price": "1399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "7",
+          "title": "Air Jordan 1 Retro High OG Men's Sneakers",
+          "price": "1399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },
+         {
+          "id": "8",
+          "title": "Air Jordan 1 Retro High OG Men's Sneakers",
+          "price": "1399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG men's sneaker continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complementing the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Women's shoes",
+      "list":[
+        {
+          "id": "1",
+          "title": "Women's 1970S Unisex High Top Canvas Shoes Barbie Pink Dopamine Pink",
+          "url": "/images/home/list-boy-a.webp",
+          "price": "419",
+          "discount": "30% off",
+          "desc": "By the 1970s, the Chuck Taylor All Star sneaker had evolved into one of the iconic basketball sneakers. The Chuck 70 combines classic elements with modern and comfortable details. The star ankle patch and smooth outsole band highlight the iconic retro style. This shoe uses a recycled canvas upper injected with new colors to create a brand new look, and is equipped with an OrthoLite insole to help you enjoy all-day comfort.",
+          "color": ["white", "black", "blue", "pink"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Air Jordan 1 Retro High OG Women's Sneakers",
+          "price": "1399",
+          "discount": "10% off",
+          "url": "/images/home/list-boy-b.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "blue", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "3",
+          "title": "Run Star Hike high-top meteor thick-soled shoes for men and women",
+          "price": "599",
+          "url": "/images/home/list-boy-c.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "4",
+          "title": "Chuck 70 Classic Canvas Shoes for Men and Women Off-White",
+          "price": "2299",
+          "url": "/images/home/list-boy-d.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "5",
+          "title": "All Star Classic Low-top Canvas Shoes for Men and Women",
+          "price": "399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "6",
+          "title": "Air Jordan 1 Retro High OG Women's Sneakers",
+          "price": "1399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },        {
+          "id": "7",
+          "title": "Chuck 70 Classic Men's and Women's Canvas Shoes Black",
+          "price": "1399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        },
+         {
+          "id": "8",
+          "title": "Aair Jordan 1 Retro High OG women's sneakers",
+          "price": "1399",
+          "url": "/images/home/list-boy-e.webp",
+          "desc": "The AJ1 gets a new look. The Air Jordan 1 Retro High OG for women continues the series' legendary style with premium royal blue suede and luxurious black leather. Classic Nike Air branding is embellished on the tongue and insole, complemented by the Wings logo on the padded high collar. The royal blue outsole adds to your legendary glory with every step.",
+          "color": ["white", "black", "blue", "rose"],
+          "details": [
+            "/images/home/list-boy-1.webp",
+            "/images/home/list-boy-2.webp",
+            "/images/home/list-boy-3.webp",
+            "/images/home/list-boy-4.webp",
+            "/images/home/list-boy-5.webp",
+            "/images/home/list-boy-6.webp"
+          ]
+        }
+      ]
+    }
+  ],
+  "msg": "success"
+}
